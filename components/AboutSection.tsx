@@ -29,15 +29,15 @@ const AboutSection = () => {
               Conócenos!
             </h1>
             <p>
-              Hola, nuestro nombre es TBD, y somos{" "}
+              Hola, nuestro nombre es Team TBD, y somos{" "}
               <span className="font-bold">{"un equipo relativamente nuevo"}</span>,
               <span className="font-bold">{" con mucha energía"}</span> e 
-              <span className="font-bold">{" innovación "}</span> basado en Piedecuesta, Santander, <span className="font-bold">{" Colombia. "}</span>
+              <span className="font-bold">{" innovación "}</span> ubicado en Piedecuesta, Santander, <span className="font-bold">{" Colombia. "}</span>
             </p>
             <br />
             <p>
 
-              Actualmente somos un pequeño equipo conformado por cuatro estudiantes aprendiendo Programación en el SENA. Nuestro plan es seguir desarrollando juegos como un hobby. Nuestros nombres son:
+              Actualmente somos un equipo conformado por seis estudiantes aprendiendo Programación en el SENA. Nuestro plan es seguir desarrollando juegos como un hobby. Nuestros nombres son:
             </p> <br/>
             <ol>
                 <li>
@@ -46,6 +46,8 @@ const AboutSection = () => {
                         <li>Johan Portilla Aguirre (tronprogram)</li>
                         <li>César Andrés León</li>
                         <li>Daniel Mauricio Morales</li>
+                        <li>Sharith Camila Gómez Flórez</li>
+                        <li>Ashley Andrea Rincón Grimaldos</li>
                     </ul>
                 </li>
             </ol>

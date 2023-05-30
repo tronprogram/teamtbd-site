@@ -15,7 +15,7 @@ const projects = [
   },
   {
     name: "TRON Unity Ed.",
-    description: "Siguiendo el (bastante pequeño) éxito de el juego y la película de 1982, este es un remake del arcade TRON hecho en Unity 3D.",
+    description: "Siguiendo el moderado éxito de el juego y la película de 1982, este es un remake del arcade TRON hecho en Unity 3D.",
     image: "/tronunityed.png",
     github: "https://google.com",
     link: "https://google.com",

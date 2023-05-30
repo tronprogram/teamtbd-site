@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-purple-900">
              equipo de desarrollo indie{" "}
             </span>
-            basado en Piedecuesta, SA.
+            ubicado en Piedecuesta, SA.
           </p>
           <Link
             to="proyectos"
